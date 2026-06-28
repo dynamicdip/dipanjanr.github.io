@@ -40,7 +40,7 @@ author_profile: true
     <p>Dipanjan Roy leads a Cognitive and Computational Neuroscience group dedicated to understanding how the brain represents time scales, organises large-scale network dynamics, and undergoes connectivity changes underlying attention, memory, perception, and multisensory integration. The group's research spans neuroimaging approaches — including EEG, MEG, and fMRI — alongside carefully designed behavioural paradigms and multiscale computational modelling frameworks. <a href="http://www.nbrc.ac.in/newweb/research/groups/dipanjanroy">Read Full Bio</a></p>
   </div>
 </div>
----
+<hr style="margin: 16px 0;">
 ## PhD Students
 
 <div class="person">
