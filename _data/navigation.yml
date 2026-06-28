@@ -1,33 +1,49 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
+# _data/navigation.yml
+# Paste this into _data/navigation.yml in your repo
 
 main:
+
+  - title: "About"
+    url: /about/
+
+  - title: "Dipanjan's Bio"
+    url: /bio/
+
+  - title: "Lab Principles"
+    url: /lab-principles/
+
+  - title: "People"
+    url: /people/
+
+  - title: "Research"
+    url: /research/
+
   - title: "Publications"
     url: /publications/
 
+  - title: "Doctoral Theses"
+    url: /theses/
+
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /teaching/
+
+  - title: "Collaborations"
+    url: /collaborations/
+
+  - title: "Open Positions"
+    url: /positions/
+
+  - title: "Software & Data"
+    url: /software/
+
+  - title: "Media & News"
+    url: /news/
+
+  - title: "Lab Photos"
+    url: /photos/
+
+  - title: "Contact"
+    url: /contact/
