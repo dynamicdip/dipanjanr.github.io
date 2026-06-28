@@ -37,10 +37,11 @@ author_profile: true
     <p class="role">Professor, Centre of Excellence in Brain Science & Applications, School of AI & Data Science, IIT Jodhpur<br>
     Fellow of the National Academy of Sciences India (NASI)<br>
     Adjunct Professor, National Brain Research Center, Manesar</p>
-    <p>Dipanjan Roy leads a Cognitive and Computational Neuroscience group dedicated to understanding how the brain represents time scales, organises large-scale network dynamics, and undergoes connectivity changes underlying attention, memory, perception, and multisensory integration. The group's research spans neuroimaging approaches — including EEG, MEG, and fMRI — alongside carefully designed behavioural paradigms and multiscale computational modelling frameworks. <a href="http://www.nbrc.ac.in/newweb/research/groups/dipanjanroy">Read Full Bio</a></p>
+    <p>Dipanjan Roy leads a Cognitive and Computational Neuroscience group dedicated to understanding how the brain represents time scales, organises large-scale network dynamics, and undergoes connectivity changes underlying attention, memory, perception, and multisensory integration. The group's research spans neuroimaging approaches — including EEG, MEG, and fMRI — alongside carefully designed behavioural paradigms and multiscale computational modelling frameworks. </p>
   </div>
 </div>
 <hr style="margin: 16px 0;">
+
 ## PhD Students
 <div class="person">
   <img src="https://dipanjanr.wordpress.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-12-at-01.17.40.jpeg" alt="Jeet Agnihotri">
