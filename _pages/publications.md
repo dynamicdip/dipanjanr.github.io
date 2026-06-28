@@ -15,6 +15,7 @@ author_profile: true
 
 ### **2026**
 
+* Saluja, Kirti, **Dipanjan Roy** , and Arpan Banerjee. "When the inner clock fades: Interoceptive decline and consolidation of phase resetting in cortical rhythms by cardiac events underlie healthy lifespan ageing" _bioRxiv_  (2025): 2024-05. **doi:**  [https://doi.org/10.1101/2024.05.31.596844](https://www.biorxiv.org/content/10.1101/2024.05.31.596844v3) (Accepted in *Imaging Neuroscience*)
 * Majumdar, G., Yazin, F., Banerjee, A., & **Roy, D._**†**_** (2026). Aging increases orbitofrontal neural volatility during affective inference. *Cerebral Cortex*, 36(4), bhag053.
 
 * Yadav, A., Banerjee, A., & **Roy, D._**†**_** (2026). Differential role of beta band activity in a dual-task working memory paradigm under internally vs. externally directed cognition. *Frontiers in Human Neuroscience*, 20, 1791453.
@@ -27,20 +28,19 @@ author_profile: true
   * Prestimulus Periodic and Aperiodic Neural Activity Shapes McGurk Perception (2025) Vinsea A V Singh, VinodhG Kumar, Arpan Banerjee, **Dipanjan  Roy** **DOI:**  https://doi.org/10.1101/2022.01.20.477172 <https://www.biorxiv.org/content/10.1101/2022.01.20.477172v2> (accepted in eNeuro)
   * Neural signatures of prioritization and facilitation in retrieving repeated items in Visual Working Memory Narvaria, Abhishek Singh, Arpan Banerjee, and **Dipanjan Roy**. (accepted in Frontiers in Human Neuroscience) <https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1642615/abstract>
   * Km Bhavna, Niniva Ghosh, Romi Banerjee, [ ](http://orcid.org/0000-0002-1669-1083)**Dipanjan  Roy** **A Lightweight, End-to-End Explainable, and Generalized attention-based Graph Neural Network model trained on high-order spatiotemporal organization of dynamic functional connectivity to classify Autistics from Neurotypicals****doi:  **https://doi.org/10.1101/2024.07.17.24310610 (accepted in _**Network Neuroscience,**_ MIT Press (2025)
-  * Chakraborty, Priyanka, Suman Saha, Gustavo Deco, Arpan Banerjee, and Dipanjan Roy. **Contributions of short- and long-range white matter tracts in dynamic compensation with aging.**  _**Cerebral Cortex**_  35, no. 2 (2025): bhae496.
+  * Chakraborty, Priyanka, Suman Saha, Gustavo Deco, Arpan Banerjee, and **Dipanjan Roy**. Contributions of short- and long-range white matter tracts in dynamic compensation with aging. _**Cerebral Cortex**_  35, no. 2 (2025): bhae496.
   * Ravivarma, S., Behera, S., **Roy, D.** , & Ghosh-Roy, A. (2025). **Synergistic control of axon regeneration and functional recovery by let-7 miRNA and Insulin signaling (IIs) pathways. Accepte** d in **Journal of Biosciences** 2025.
-  * Majumdar, Gargi, Fahd Yazin, Arpan Banerjee, and Dipanjan Roy (2025). **Aging distorts the representation of emotions by amplifying prefrontal variability.** DOI:<https://www.biorxiv.org/content/10.1101/2024.04.22.590523v1> (Revision stage)
+  * Majumdar, Gargi, Fahd Yazin, Arpan Banerjee, and **Dipanjan Roy** (2025). **Aging distorts the representation of emotions by amplifying prefrontal variability.** DOI:<https://www.biorxiv.org/content/10.1101/2024.04.22.590523v1> (Revision stage)
   * Vinsea A V Singh, Vinodh G Kumar, Arpan Banerjee, **Dipanjan  Roy** **Directional connectivity in prestimulus large-scale functional networks underpins McGurk perception  (2025)** (Under preparation)
 
 ### **2024**
 
-  * Bhavna, Km, Niniva Ghosh, Romi Banerjee, and **Dipanjan Roy** **Characterization of the Temporal Stability of ToM and Pain Functional Brain Networks Carry Distinct Developmental Signatures during Naturalistic Viewing.**_**Sci Rep**_  **14** , 22479 (2024). https://doi.org/10.1038/s41598-024-72945-4.
-  * Yadav, Ankit, Arpan Banerjee, and **Dipanjan Roy** **Differential Neural Correlates of EEG Mediate the Impact of Internally and Externally Directed Attention in a Dual-task Working Memory Paradigm**. _Proceedings of the Annual Meeting of the Cognitive Science Society_ , vol. 46. 2024.
-  * Bhavna, Km, Azman Akhtar, Romi Banerjee, and **Dipanjan Roy**. "**Explainable Deep-Learning Framework: Decoding brain States and Prediction of Individual Performance in False-Belief Task at Early Childhood Stage.** " _**Frontiers in Neuroinformatics**_  18: 1392661.
-  * **End-to-End Explainable AI: Derived Theory-of-Mind Fingerprints to Distinguish Between Autistic and Typically Developing and Social Symptom Severity**. Bhavna, K., Banerjee, R., **Roy, D.**  (2024) _bioRxiv_ , 2023-01. <https://www.biorxiv.org/content/10.1101/2023.01.21.525016v1>
-  * Saluja, Kirti, **Dipanjan Roy** , and Arpan Banerjee. "**Age-associated alterations in the cortical representation of cardiac signals: A heartfelt tale.** " _bioRxiv_  (2024): 2024-05. **doi:**  https://doi.org/10.1101/2024.05.31.596844 (In preparation)
+  * Bhavna, Km, Niniva Ghosh, Romi Banerjee, and **Dipanjan Roy** Characterization of the Temporal Stability of ToM and Pain Functional Brain Networks Carry Distinct Developmental Signatures during Naturalistic Viewing._**Sci Rep**_  **14**, 22479 (2024). https://doi.org/10.1038/s41598-024-72945-4.
+  * Yadav, Ankit, Arpan Banerjee, and **Dipanjan Roy** Differential Neural Correlates of EEG Mediate the Impact of Internally and Externally Directed Attention in a Dual-task Working Memory Paradigm. _Proceedings of the Annual Meeting of the Cognitive Science Society_ , vol. 46. 2024.
+  * Bhavna, Km, Azman Akhtar, Romi Banerjee, and **Dipanjan Roy**. "Explainable Deep-Learning Framework: Decoding brain States and Prediction of Individual Performance in False-Belief Task at Early Childhood Stage." _**Frontiers in Neuroinformatics**_  18: 1392661.
+  * End-to-End Explainable AI: Derived Theory-of-Mind Fingerprints to Distinguish Between Autistic and Typically Developing and Social Symptom Severity. Bhavna, K., Banerjee, R., **Roy, D.**  (2024) _bioRxiv_ , 2023-01. <https://www.biorxiv.org/content/10.1101/2023.01.21.525016v1>
   * **Diet-induced miRNAs regulate adult neurogenesis and functional activity of nascent neurons in the hypothalamus.  **Srinivasan, Balakumar, Sarbani Samaddar, **Dipanjan Roy** , and Sourav Banerjee. (2024) **doi:**  https://doi.org/10.1101/2023.12.22.573029 (In preparation)
-
+    
 ### **2023**
 
   * Chakraborty, Priyanka, Suman Saha, Gustavo Deco, Arpan Banerjee _**†**_ , and **Dipanjan Roy** _**†** _**Structural-and-dynamical similarity predicts compensatory brain areas driving the post-lesion functional recovery mechanism**." _**Cerebral Cortex Communications**_  4, no. 3 (2023): tgad012
