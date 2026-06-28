@@ -18,10 +18,6 @@ author_profile: true
 Fellow of the National Academy of Sciences India (NASI)<br>
 Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 <span style="text-align:justify; display:block; font-size:15px; line-height:1.6;">Dipanjan Roy leads a Cognitive and Computational Neuroscience group dedicated to understanding how the brain represents time scales, organises large-scale network dynamics, and undergoes connectivity changes underlying attention, memory, perception, and multisensory integration. The group's research spans neuroimaging approaches — including EEG, MEG, and fMRI — alongside carefully designed behavioural paradigms and multiscale computational modelling frameworks.
-</td>
-</tr>
-</table>
-
 <hr style="margin: 8px 0 16px 0;">
 
 ## PhD Students
