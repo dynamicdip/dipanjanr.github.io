@@ -14,9 +14,9 @@ author_profile: true
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:1.05em;">Dipanjan Roy</strong><br>
-<span style="color:#555; font-size:0.9em;">Professor, Centre of Excellence in Brain Science & Applications, School of AI & Data Science, IIT Jodhpur<br>
+<strong style="color:#555; font-size:0.9em;">Professor, Centre of Excellence in Brain Science & Applications, School of AI & Data Science, IIT Jodhpur<br>
 Fellow of the National Academy of Sciences India (NASI)<br>
-Adjunct Professor, National Brain Research Center, Manesar</span><br><br>
+Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 <span style="text-align:justify; display:block; font-size:0.95em;">Dipanjan Roy leads a Cognitive and Computational Neuroscience group dedicated to understanding how the brain represents time scales, organises large-scale network dynamics, and undergoes connectivity changes underlying attention, memory, perception, and multisensory integration. The group's research spans neuroimaging approaches — including EEG, MEG, and fMRI — alongside carefully designed behavioural paradigms and multiscale computational modelling frameworks. <a href="http://www.nbrc.ac.in/newweb/research/groups/dipanjanroy">Read Full Bio</a></span>
 </td>
 </tr>
