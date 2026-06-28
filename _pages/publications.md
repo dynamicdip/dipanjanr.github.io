@@ -15,6 +15,8 @@ author_profile: true
 
 ### **2026**
 
+* **Roy, D._**†**_**, & Banerjee, A. (2026). Competition in the brain: a conserved principle with lifespan consequences.*Nature Communications Biology*.
+
 * Saluja, Kirti, **Dipanjan Roy** , and Arpan Banerjee. "When the inner clock fades: Interoceptive decline and consolidation of phase resetting in cortical rhythms by cardiac events underlie healthy lifespan ageing" _bioRxiv_  (2025): 2024-05. **doi:**  [https://doi.org/10.1101/2024.05.31.596844](https://www.biorxiv.org/content/10.1101/2024.05.31.596844v3) (Accepted in *Imaging Neuroscience*)
 * Majumdar, G., Yazin, F., Banerjee, A., & **Roy, D._**†**_** (2026). Aging increases orbitofrontal neural volatility during affective inference. *Cerebral Cortex*, 36(4), bhag053.
 
@@ -24,7 +26,7 @@ author_profile: true
 
 ### **2025**
 
-  * Saha, S., Chakraborty, P., Naskar, A., **Roy, D._**†**_**, & Banerjee, A. (2025). Local homeostasis preserves global neural dynamics, compensating for structural loss during human lifespan aging. *Communications Biology*, 8(1), 1251.
+  * Saha, S., Chakraborty, P., Naskar, A., **Roy, D._**†**_**, & Banerjee, A. (2025). Local homeostasis preserves global neural dynamics, compensating for structural loss during human lifespan aging. *Nature Communications Biology*, 8(1), 1251.
   * Prestimulus Periodic and Aperiodic Neural Activity Shapes McGurk Perception (2025) Vinsea A V Singh, VinodhG Kumar, Arpan Banerjee, **Dipanjan  Roy** **DOI:**  https://doi.org/10.1101/2022.01.20.477172 <https://www.biorxiv.org/content/10.1101/2022.01.20.477172v2> (accepted in eNeuro)
   * Neural signatures of prioritization and facilitation in retrieving repeated items in Visual Working Memory Narvaria, Abhishek Singh, Arpan Banerjee, and **Dipanjan Roy**. (accepted in Frontiers in Human Neuroscience) <https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1642615/abstract>
   * Km Bhavna, Niniva Ghosh, Romi Banerjee, [ ](http://orcid.org/0000-0002-1669-1083)**Dipanjan  Roy** **A Lightweight, End-to-End Explainable, and Generalized attention-based Graph Neural Network model trained on high-order spatiotemporal organization of dynamic functional connectivity to classify Autistics from Neurotypicals****doi:  **https://doi.org/10.1101/2024.07.17.24310610 (accepted in _**Network Neuroscience,**_ MIT Press (2025)
