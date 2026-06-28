@@ -15,11 +15,11 @@ author_profile: true
 
 ### **2026**
 
-*Majumdar, G., Yazin, F., Banerjee, A., & **Roy, D._**†**_** (2026). Aging increases orbitofrontal neural volatility during affective inference. *Cerebral Cortex*, 36(4), bhag053.
+* Majumdar, G., Yazin, F., Banerjee, A., & **Roy, D._**†**_** (2026). Aging increases orbitofrontal neural volatility during affective inference. *Cerebral Cortex*, 36(4), bhag053.
 
-*Yadav, A., Banerjee, A., & **Roy, D._**†**_** (2026). Differential role of beta band activity in a dual-task working memory paradigm under internally vs. externally directed cognition. *Frontiers in Human Neuroscience*, 20, 1791453.
+* Yadav, A., Banerjee, A., & **Roy, D._**†**_** (2026). Differential role of beta band activity in a dual-task working memory paradigm under internally vs. externally directed cognition. *Frontiers in Human Neuroscience*, 20, 1791453.
 
-*Bandyopadhyay, A., Chakravarthy, V. S. †, & **Roy, D._**†**_** (2026). A mechanistic whole brain model to capture simultaneous EEG-fMRI data. *Cerebral Cortex*, 36(1), bhag002.
+* Bandyopadhyay, A., Chakravarthy, V. S. †, & **Roy, D._**†**_** (2026). A mechanistic whole brain model to capture simultaneous EEG-fMRI data. *Cerebral Cortex*, 36(1), bhag002.
 
 ### **2025**
 
