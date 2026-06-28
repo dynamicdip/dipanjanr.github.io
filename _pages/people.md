@@ -42,7 +42,6 @@ author_profile: true
 </div>
 <hr style="margin: 16px 0;">
 ## PhD Students
-
 <div class="person">
   <img src="https://dipanjanr.wordpress.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-12-at-01.17.40.jpeg" alt="Jeet Agnihotri">
   <div class="person-info">
@@ -113,7 +112,7 @@ author_profile: true
   </div>
 </div>
 
----
+<hr style="margin: 16px 0;">
 
 ## MS and M.Tech Research Students
 
@@ -147,7 +146,7 @@ author_profile: true
   </div>
 </div>
 
----
+<hr style="margin: 16px 0;">
 
 ## Lab Alumni
 
@@ -172,7 +171,7 @@ author_profile: true
 | Abhishek Narvaria | PhD | Ashoka University |
 | Alok Kumar Shukla | M.Tech thesis | — |
 
----
+<hr style="margin: 16px 0;">
 
 ## Short-Term Visitors and Summer Interns
 
