@@ -14,3 +14,7 @@
 .page__content p {
   text-align: justify !important;
 }
+.author__avatar img {
+  object-fit: cover;
+  object-position: center 20%;
+}
