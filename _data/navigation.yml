@@ -12,7 +12,7 @@ main:
   - title: "Contact"
     url: /contact/
   - title: "More"
-      url: "#"
+    url: "#"
     children:
       - title: "Dipanjan's Bio"
         url: /bio/
