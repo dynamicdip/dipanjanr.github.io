@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-#### ![img-20200226-142211_orig \(1\)](https://dipanjanr.com/wp-content/uploads/2020/05/img-20200226-142211_orig-1.jpg)![600x200](https://dipanjanr.com/wp-content/uploads/2020/05/600x200.png)
+
 
  
 
