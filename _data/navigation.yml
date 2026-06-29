@@ -11,8 +11,7 @@ main:
     url: /positions/
   - title: "Contact"
     url: /contact/
-  - title: "More"
-    url: "#"
+  - title: "More ▾"
     children:
       - title: "Dipanjan's Bio"
         url: /bio/
