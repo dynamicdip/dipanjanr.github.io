@@ -1,6 +1,5 @@
 <style>
-/* Disable greedy-nav auto-collapse JS behavior entirely.
-   We rely on navigation.yml's manual "More" dropdown instead. */
+/* === FORCE NAV DROPDOWN AND THEME TOGGLE VISIBLE === */
 .greedy-nav__toggle {
   display: none !important;
 }
@@ -9,20 +8,73 @@
 }
 .greedy-nav .visible-links {
   overflow: visible !important;
-  flex-wrap: wrap;
 }
 
-/* Fix invisible theme toggle icon */
+.has-dropdown {
+  position: relative !important;
+  display: table-cell !important;
+}
+.has-dropdown .dropdown-btn {
+  display: inline-block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  color: #333 !important;
+  background: none !important;
+  border: none !important;
+  font: inherit !important;
+  cursor: pointer !important;
+}
+
+#theme-toggle {
+  display: table-cell !important;
+}
 #theme-toggle a {
-  color: inherit !important;
-  font-size: 1.1em;
-  cursor: pointer;
   display: inline-flex !important;
-  align-items: center;
-  padding: 0 12px;
+  visibility: visible !important;
+  opacity: 1 !important;
+  align-items: center !important;
+  padding: 0 12px !important;
+  color: #333 !important;
+  cursor: pointer !important;
 }
 #theme-icon {
-  color: inherit !important;
+  display: inline-block !important;
+  visibility: visible !important;
   opacity: 1 !important;
+  color: #333 !important;
+  font-size: 1.1em !important;
 }
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  // Ensure dropdown buttons have visible text even if template content is empty
+  document.querySelectorAll('.has-dropdown .dropdown-btn').forEach(function (btn) {
+    if (!btn.textContent.trim()) {
+      btn.innerHTML = 'More <span class="dropdown-caret">▾</span>';
+    }
+    btn.addEventListener('click', function (e) {
+      e.preventDefault();
+      var menu = btn.nextElementSibling;
+      if (menu && menu.classList.contains('dropdown-menu')) {
+        menu.classList.toggle('open');
+      }
+    });
+  });
+
+  // Ensure theme toggle icon exists even if empty
+  var themeLink = document.querySelector('#theme-toggle a');
+  if (themeLink && !themeLink.querySelector('i')) {
+    themeLink.innerHTML = '<i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i>';
+  }
+
+  // Close dropdown when clicking outside
+  document.addEventListener('click', function (e) {
+    if (!e.target.closest('.has-dropdown')) {
+      document.querySelectorAll('.dropdown-menu.open').forEach(function (m) {
+        m.classList.remove('open');
+      });
+    }
+  });
+});
+</script>
