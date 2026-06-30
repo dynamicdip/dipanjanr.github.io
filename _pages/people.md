@@ -134,23 +134,11 @@ Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 </tr>
 </table>
 
-<table style="border:none; margin:0 0 16px 0;">
-<tr>
-<td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="/images/PLACEHOLDER-sireejaa.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Sireejaa Uppal">
-</td>
-<td style="border:none; vertical-align:top; padding:0;">
-<strong style="font-size:15px;">Sireejaa Uppal</strong><br>
-<span style="color:#555; font-size:15px;">M.Tech Research Student &nbsp;|&nbsp; m23cse023@iitj.ac.in</span><br><br>
-<span style="text-align:justify; display:block; font-size:15px; line-height:1.6;">Sireejaa received her B.Tech in Computer Science Engineering from NIT Goa and is currently pursuing her M.Tech in CSE at IIT Jodhpur. Her research focuses on the intersection of data science and neurology, understanding brain functions and the phases of brain dynamics critical for cognitive processing using multimodal data fusion approaches.</span>
-</td>
-</tr>
-</table>
 
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
 <td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="/images/PLACEHOLDER-swatantra.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Swatantra Dhara">
+<img src="/images/ms-swatantra-dhara.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Swatantra Dhara">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Swatantra Dhara</strong><br>
