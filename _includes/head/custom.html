@@ -9,11 +9,13 @@
 }
 .greedy-nav .visible-links {
   overflow: visible !important;
+  flex-wrap: nowrap !important;
 }
 
 .has-dropdown {
   position: relative !important;
-  display: table-cell !important;
+  display: inline-flex !important;
+  align-items: center !important;
 }
 .has-dropdown .dropdown-btn {
   display: inline-block !important;
@@ -24,6 +26,7 @@
   border: none !important;
   font: inherit !important;
   cursor: pointer !important;
+  white-space: nowrap !important;
 }
 .has-dropdown .dropdown-menu.open {
   display: block !important;
@@ -34,7 +37,8 @@
 }
 
 #theme-toggle {
-  display: table-cell !important;
+  display: inline-flex !important;
+  align-items: center !important;
 }
 #theme-toggle a,
 #theme-toggle i {
