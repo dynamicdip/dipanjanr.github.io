@@ -4,8 +4,7 @@ title: "Dipanjan's Bio"
 permalink: /bio/
 author_profile: true
 ---
-
-## ![Photo on 28-01-22 at 11.54 AM](https://dipanjanr.com/wp-content/uploads/2024/03/photo-on-28-01-22-at-11.54-am.jpg)
+## ![Photo on 28-01-22 at 11.54 AM](/images/photo-on-28-01-22-at-11.54-am.jpg)
 
 ## Alternate Lab website 
 
