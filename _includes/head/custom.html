@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
 <style>
 .greedy-nav__toggle {
   display: none !important;
@@ -44,33 +45,3 @@
   font-size: 1.2em !important;
 }
 </style>
-
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  document.querySelectorAll('.has-dropdown .dropdown-btn').forEach(function (btn) {
-    if (!btn.textContent.trim()) {
-      btn.innerHTML = 'More <span class="dropdown-caret">▾</span>';
-    }
-    btn.addEventListener('click', function (e) {
-      e.preventDefault();
-      var menu = btn.nextElementSibling;
-      if (menu && menu.classList.contains('dropdown-menu')) {
-        menu.classList.toggle('open');
-      }
-    });
-  });
-
-  var themeLink = document.querySelector('#theme-toggle a');
-  if (themeLink && !themeLink.querySelector('i')) {
-    themeLink.innerHTML = '<i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i>';
-  }
-
-  document.addEventListener('click', function (e) {
-    if (!e.target.closest('.has-dropdown')) {
-      document.querySelectorAll('.dropdown-menu.open').forEach(function (m) {
-        m.classList.remove('open');
-      });
-    }
-  });
-});
-</script>
