@@ -7,8 +7,6 @@ author_profile: true
 
 ## Principal Investigator
 
-## Principal Investigator
-
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
 <td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
