@@ -10,7 +10,7 @@ author_profile: true
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
 <td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="https://dipanjanr.com/wp-content/uploads/2015/04/photo-on-9-27-14-at-11-44-am-2.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Dipanjan Roy">
+<img src="/images/pi-dipanjan-roy.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Dipanjan Roy">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Dipanjan Roy</strong><br>
@@ -29,7 +29,7 @@ Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
 <td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="https://dipanjanr.wordpress.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-12-at-01.17.40.jpeg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Jeet Agnihotri">
+<img src="/images/phd-jeet-agnihotri.jpeg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Jeet Agnihotri">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Jeet Agnihotri</strong><br>
@@ -42,7 +42,7 @@ Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
 <td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="https://dipanjanr.com/wp-content/uploads/2019/02/azman.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Azman Akhtar">
+<img src="/images/phd-azman-akhtar.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Azman Akhtar">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Azman Akhtar</strong><br>
@@ -55,7 +55,7 @@ Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
 <td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="https://dipanjanr.com/wp-content/uploads/2023/08/photo-2.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Debottam Bhunia">
+<img src="/images/phd-debottam-bhunia.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Debottam Bhunia">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Debottam Bhunia</strong><br>
@@ -68,7 +68,7 @@ Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
 <td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="https://dipanjanr.com/wp-content/uploads/2020/05/img-20200309-wa0020.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Vinsea AV Singh">
+<img src="/images/phd-vinsea-singh.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Vinsea AV Singh">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Vinsea AV Singh</strong><br>
@@ -81,7 +81,7 @@ Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
 <td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="https://dipanjanr.com/wp-content/uploads/2021/05/img-2819.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Ankit Yadav">
+<img src="/images/phd-ankit-yadav.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Ankit Yadav">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Ankit Yadav</strong><br>
@@ -94,7 +94,7 @@ Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
 <td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="https://dipanjanr.com/wp-content/uploads/2024/02/whatsapp-image-2024-02-01-at-10.14.08-am.jpeg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="N Akhila">
+<img src="/images/phd-n-akhila.jpeg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="N Akhila">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">N Akhila</strong><br>
@@ -107,7 +107,7 @@ Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
 <td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="https://dipanjanr.com/wp-content/uploads/2024/09/e2c213ed-fdcc-45d4-9449-872cc56bd836.jpeg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Abinaya Vairam">
+<img src="/images/phd-abinaya-vairam.jpeg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Abinaya Vairam">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Abinaya Vairam</strong><br>
@@ -124,7 +124,7 @@ Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
 <td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="https://dipanjanr.com/wp-content/uploads/2024/09/3dede60a-c0af-4c57-96ea-a9037ed2984d.jpeg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Shreya Deb">
+<img src="/images/ms-shreya-deb.jpeg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Shreya Deb">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Shreya Deb</strong><br>
@@ -137,7 +137,7 @@ Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
 <td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="https://dipanjanr.com/wp-content/uploads/2024/02/sireejaa.png" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Sireejaa Uppal">
+<img src="/images/PLACEHOLDER-sireejaa.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Sireejaa Uppal">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Sireejaa Uppal</strong><br>
@@ -150,7 +150,7 @@ Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
 <td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="https://dipanjanr.com/wp-content/uploads/2024/09/07d547a4-0feb-4f2a-bedf-c29ec58f3830.jpeg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Swatantra Dhara">
+<img src="/images/PLACEHOLDER-swatantra.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Swatantra Dhara">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Swatantra Dhara</strong><br>
@@ -159,8 +159,6 @@ Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 </td>
 </tr>
 </table>
-
-<hr style="margin: 8px 0 16px 0;">
 
 ## Lab Alumni
 
