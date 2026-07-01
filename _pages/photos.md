@@ -4,12 +4,6 @@ title: "Lab photos and events"
 permalink: /photos/
 author_profile: true
 ---
-* ![](/images/whatsapp-image-2021-02-12-at-10-21-16-pm.jpeg)![](/images/whatsapp-image-2021-02-13-at-11-02-54-am_orig.jpeg)![](/images/whatsapp-image-2021-02-12-at-9-05-21-pm_orig.jpeg)
-
-* ![](/images/whatsapp-image-2021-02-13-at-8-38-41-am_orig.jpeg)
-
-* ![](/images/whatsapp-image-2021-02-13-at-8-42-56-am.jpeg)![](/images/whatsapp-image-2021-02-13-at-11-02-54-am_orig-1.jpeg)
-
 **Lab Barbecue 2020 NBRC**
 
 ![](/images/whatsapp-image-2021-03-26-at-4-10-43-pm_orig.jpeg)
