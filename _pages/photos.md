@@ -4,7 +4,6 @@ title: "Lab photos and events"
 permalink: /photos/
 author_profile: true
 ---
-* ![](/images/media_nature_asia-2.png)
 * ![](/images/whatsapp-image-2021-02-12-at-10-21-16-pm.jpeg)![](/images/whatsapp-image-2021-02-13-at-11-02-54-am_orig.jpeg)![](/images/whatsapp-image-2021-02-12-at-9-05-21-pm_orig.jpeg)
 
 * ![](/images/whatsapp-image-2021-02-13-at-8-38-41-am_orig.jpeg)
